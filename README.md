@@ -1,3 +1,3 @@
 # Data-Structures
 
- ##### This repository includes the implementation of a number of data structures.
+ This repository contains implementations of some of the data structures that I did as exercises in the Data Structures course.
